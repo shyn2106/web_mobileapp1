@@ -75,7 +75,11 @@ public class LoginActivity extends AppCompatActivity {
     Button loginButton;
     TextView registerText;
 
+
     private static final String LOGIN_URL = "https://fakestoreapi.com/users";
+
+    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
